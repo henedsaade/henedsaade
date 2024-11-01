@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @henedsaade
 - 👀 I’m interested in video games and AI
 - 🌱 I’m currently learning how to code my own video game
-- 💞️ I’m looking to collaborate on a video game!
-- 📫 How to reach me: henedsaade01@gmailcom
+- 💞️ I would love to connect and chat more!
+- 📫 How to reach me: on LinkedIn
 
 <!---
 henedsaade/henedsaade is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
