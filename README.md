@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @henedsaade
 - 👀 I’m interested in video games and AI
 - 🌱 I’m currently learning how to code my own video game
-- 💞️ I would love to connect and chat more!
 - 📫 How to reach me: on LinkedIn
 
 <!---
